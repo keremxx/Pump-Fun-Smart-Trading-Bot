@@ -39,7 +39,7 @@ Follow these steps to set up the Pump.fun Solana Trading and Sniping Bot:
 
 Clone the repository to your local machine:
 
-```sh git clone https://github.com/0xElite/Pump-Fun-Smart-Trading-Bot.git ```
+```sh git clone https://github.com/keremxx/Pump-Fun-Smart-Trading-Bot.git ```
 
 ```sh npm install dotenv axios @solana/web3.js @solana/spl-token selenium-webdriver fs bs58 blessed blessed-contrib ```
 
